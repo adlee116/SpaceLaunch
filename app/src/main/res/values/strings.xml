@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpaceLaunch</string>
+    <string name="falcon_9_launches">Falcon 9 Launches</string>
+    <string name="no_image_available">No Image Available</string>
+    <string name="mission_success">Mission Success</string>
+    <string name="try_again">Try Again</string>
+</resources>
