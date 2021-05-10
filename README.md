@@ -10,3 +10,4 @@ Things to do with more time.
 - Error handler for network requests. 
 - More thorough testing. 
 - Kotlin tidy up. There is likely a few bits and pieces that I could tidy up with kotlin language functions.
+- Pull to refresh or work manager timer. There is not currently a way to refresh the list. This would need to be added. 
